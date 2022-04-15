@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    max-width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.cardimage {
+  max-width: 350px;
+  max-height: 200px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+.hover:hover{
+            -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+        }
+body{
+  color: rgb(221, 219, 217);
+}
+a.hov :hover{
+  color: white;
+  text-decoration: none;
+}
+
+a.o:hover{
+  color: rgb(75, 18, 231);
+  text-decoration: none;
+}
+.cls-1{
+  text-decoration: none;
+  color: white;
+}
+a.cls-1:hover{
+  
+  text-decoration: none;
+  color: rgb(77, 102, 245);
+}
